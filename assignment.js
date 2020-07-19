@@ -63,6 +63,3 @@ function tinyFriend(array)
 }
 var myFriend=['setu','kritto','rubi','hi','j'];
 console.log(tinyFriend(myFriend));
-
-
-
